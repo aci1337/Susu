@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\ac\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(99,2): error C2660: 'ImGui_ImplDX9_Init': function does not take 2 arguments
+C:\Users\ac\source\repos\ConsoleApplication1\ConsoleApplication1\imgui_impl_dx9.h(15,25): message : see declaration of 'ImGui_ImplDX9_Init'
+C:\Users\ac\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(99,2): message : while trying to match the argument list '(HWND, LPDIRECT3DDEVICE9)'
