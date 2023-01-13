@@ -1,4 +1,4 @@
-# susu
+# MySusu
 MySusu is an efficient, lightweight graphical user interface library for C++. MySusu provides the tools needed to create intuitive in-game user interfaces, such as menus, windows, and tooltips. It has been designed to be fast, extensible, and user-friendly. 
 
 Goals:
